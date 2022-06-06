@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+    <ul>
+        <li v-for="message in messages">{{message}}</li>
+    </ul>
+
+    <form @submit.prevent="onsubmit">
+        <input type="text" v-model="content">
+        <input type="submit">
+    </form>
+</div>
+<script src="https://unpkg.com/vue@2.6.14/dist/vue.min.js"></script>
+<script>
+    let ws=new WebSocket('ws://192.168.229.131:8282');
+    console.log(ws)
+    let app=new Vue({
+        el:'#app',
+        data:{
+            messages:[],
+            content:'',
+        },
+        created:function () {
+            ws.onmessage=function (e) {
+                this.messages.push(e.data);
+            }.bind(this)
+        },
+        methods:{
+            onsubmit:function () {
+                ws.send(this.content);
+            }
+        }
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+2022-03-29 19:38:44 pid:30254 Workerman[start.php] start in DEBUG mode
+2022-03-29 19:38:57 pid:30254 Workerman[start.php] stopping ...
+2022-03-29 19:38:57 pid:30254 Workerman[start.php] has been stopped
+2022-03-29 19:39:17 pid:30384 Workerman[start.php] start in DEBUG mode
+2022-03-29 22:21:28 pid:30384 Workerman[start.php] stopping ...
+2022-03-29 22:21:28 pid:30384 Workerman[start.php] stopping ...
+2022-03-29 22:21:50 pid:30384 Workerman[start.php] stopping ...
+2022-03-29 22:21:50 pid:30391 worker[30391] remains 4 connection(s)
+2022-03-29 22:21:50 pid:30393 worker[30393] remains 6 connection(s)
+2022-03-29 22:21:50 pid:30392 worker[30392] remains 4 connection(s)
+2022-03-29 22:21:50 pid:30390 worker[30390] remains 4 connection(s)
+2022-03-29 22:21:50 pid:30391 worker[30391] remains 2 connection(s)
+2022-03-29 22:21:50 pid:30392 worker[30392] remains 2 connection(s)
+2022-03-29 22:21:50 pid:30390 worker[30390] remains 2 connection(s)
+2022-03-29 22:21:50 pid:30389 worker[30389] remains 4 connection(s)
+2022-03-29 22:21:50 pid:30389 worker[30389] remains 2 connection(s)
+2022-03-29 22:21:50 pid:30393 worker[30393] remains 3 connection(s)
+2022-03-29 22:21:50 pid:30384 Workerman[start.php] stopping ...
+2022-03-29 22:21:50 pid:30384 Workerman[start.php] has been stopped
+2022-03-30 20:11:12 pid:3678 Workerman[start.php] start in DEBUG mode
+2022-03-30 20:59:04 pid:3678 Workerman[start.php] stopping ...
+2022-03-30 20:59:04 pid:3678 Workerman[start.php] has been stopped
+2022-03-30 20:59:06 pid:9184 Workerman[start.php] start in DEBUG mode
+2022-03-30 21:02:37 pid:9184 Workerman[start.php] stopping ...
+2022-03-30 21:02:37 pid:9184 Workerman[start.php] has been stopped
+2022-03-30 21:02:38 pid:9573 Workerman[start.php] start in DEBUG mode
+2022-03-30 21:05:11 pid:9573 Workerman[start.php] stopping ...
+2022-03-30 21:05:11 pid:9573 Workerman[start.php] has been stopped
+2022-03-30 21:05:13 pid:9905 Workerman[start.php] start in DEBUG mode
+2022-03-30 21:09:52 pid:9905 Workerman[start.php] stopping ...
+2022-03-30 21:09:52 pid:9905 Workerman[start.php] has been stopped
+2022-03-30 21:10:56 pid:11201 Workerman[start.php] start in DEBUG mode
+2022-03-30 21:15:50 pid:11201 Workerman[start.php] stopping ...
+2022-03-30 21:15:50 pid:11201 Workerman[start.php] has been stopped
+2022-03-31 10:30:36 pid:14629 Workerman[start.php] start in DEBUG mode
+2022-03-31 15:54:48 pid:14629 Workerman[start.php] stopping ...
+2022-03-31 15:54:48 pid:14629 Workerman[start.php] has been stopped
